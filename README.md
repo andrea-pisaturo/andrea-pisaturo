@@ -46,9 +46,9 @@ I enjoy working on projects that combine software engineering, security analysis
 
 ---
 
-## Featured projects
+## Projects
 
-### Blockchain Document Governance System
+### Document governance system
 Permissioned blockchain prototype for multi-authority document governance, access control, delegation, revocation and auditability.
 
 Technologies: Solidity, Hardhat, Hyperledger Besu, QBFT, TypeScript, IPFS/Helia, Express.
@@ -58,8 +58,8 @@ iOS application for receipt scanning, automatic OCR-based information extraction
 
 Technologies: Swift, SwiftUI, Vision, SwiftData, Swift Charts.
 
-### AI and Computer Vision Projects
-University and research-oriented projects involving machine learning, image segmentation and neural networks.
+### AI and Computer Vision Project
+University project involving machine learning, image segmentation and neural networks.
 
 Technologies: Python, PyTorch, computer vision datasets and model evaluation.
 
