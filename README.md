@@ -22,6 +22,7 @@ I enjoy working on projects that combine software engineering, security analysis
 ## Main interests
 
 - Secure software design and threat modeling
+- Penetration testing and Active Directory security
 - Blockchain and smart contract development
 - Mobile application development
 - Machine learning, computer vision and adversarial ML
@@ -38,6 +39,7 @@ I enjoy working on projects that combine software engineering, security analysis
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks and tools
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
@@ -82,3 +84,5 @@ Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, 
 ## Contact
 
 You can find me here on [GitHub](https://github.com/andry800) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrea-pisaturo-aa5951260).
+
+![Profile Views](https://komarev.com/ghpvc/?username=andry800&style=for-the-badge&color=4A91B8)
