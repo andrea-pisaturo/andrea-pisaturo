@@ -18,7 +18,6 @@ I enjoy working on projects that combine software engineering, security analysis
 
 - Secure software design and threat modeling
 - Blockchain and smart contract development
-- Permissioned blockchain systems and access control
 - Mobile application development
 - Machine learning, computer vision and adversarial ML
 - Software architecture and engineering
@@ -62,7 +61,7 @@ iOS application for receipt scanning, automatic OCR-based information extraction
 
 Technologies: Swift, SwiftUI, Vision, SwiftData, Swift Charts.
 
-### AIxCS Face Recognition Adversarial Robustness
+### Adversarial attacks on Inception Resnet V1 model pretrained on VGGFace2
 Security evaluation of a VGGFace2-based face recognition system against adversarial attacks. The project includes white-box attacks, Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
 
 Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, VGGFace2, ResNet50, pandas, Matplotlib.
