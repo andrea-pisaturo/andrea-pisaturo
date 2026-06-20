@@ -85,4 +85,4 @@ Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, 
 
 You can find me here on [GitHub](https://github.com/andrea-pisaturo) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrea-pisaturo-aa5951260).
 
-![Profile Views](https://komarev.com/ghpvc/?username=andry800&style=for-the-badge&color=4A91B8)
+![Profile Views](https://komarev.com/ghpvc/?username=andrea-pisaturo&style=for-the-badge&color=4A91B8)
