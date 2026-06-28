@@ -11,16 +11,17 @@
 
 ---
 
-I'm a Computer Engineering student at the University of Salerno, currently pursuing my Master's degree.
+I'm a Computer Engineering student at the University of Salerno, currently pursuing my Master's Degree with a specialization in Cybersecurity.
 
-I am interested in the design and implementation of secure software systems, with a focus on blockchain technologies, access control, cybersecurity and applied artificial intelligence.
+During my academic journey, I developed a strong interest in cybersecurity, applied artificial intelligence, and the design of secure and reliable software systems. I am particularly interested in both offensive and defensive security, with a focus on penetration testing, Active Directory security, vulnerability assessment, network and system security, and application security.
 
-I enjoy working on projects that combine software engineering, security analysis and practical implementation, from smart contracts and decentralized systems to mobile applications and machine learning prototypes.
+I enjoy working on projects that combine software engineering, security analysis, and practical implementation, ranging from smart contracts and decentralized systems to adversarial machine learning, mobile applications, and secure software architectures.
 
 ---
 
 ## Main interests
 
+- Cybersecurity and vulnerability assessment
 - Secure software design and threat modeling
 - Penetration testing and Active Directory security
 - Blockchain and smart contract development
@@ -54,6 +55,15 @@ I enjoy working on projects that combine software engineering, security analysis
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-FABD14?style=for-the-badge)
 
+### Security tools and topics
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kerberos](https://img.shields.io/badge/Kerberos-5A5A5A?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-111827?style=for-the-badge)
+
 ---
 
 ## Projects
@@ -78,6 +88,14 @@ Security evaluation of a VGGFace2-based face recognition system against white-bo
 Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, VGGFace2, ResNet50, pandas, Matplotlib.
 
 🔗 [Repository](https://github.com/andry800/adversarial-face-recognition-security)
+
+---
+
+## Additional academic work
+
+- Penetration testing of a simulated Active Directory infrastructure in an Assumed Breach scenario, including reconnaissance, service enumeration, privilege escalation, lateral movement, persistence, cleanup, and remediation reporting.
+- Security assessment and Zero Trust redesign of a simulated enterprise infrastructure, including risk analysis, network segmentation, IAM, PAM, hardening, EDR, SIEM/SOC, backup, and incident response.
+- Model-based embedded controller for a home automation system, designed with MATLAB/Simulink and Stateflow and deployed on an STM32 NUCLEO-G474RE board.
 
 ---
 
